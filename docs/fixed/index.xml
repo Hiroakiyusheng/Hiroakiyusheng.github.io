@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/fixed/cv/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>http://localhost:1313/fixed/cv/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
+&lt;li&gt;March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;January 2021 - March 2023: Research Assistant for Yutaka Arimoto at the Hitotsubashi University, Institute of Economic Research&lt;/li&gt;
+&lt;li&gt;September 2022 - March 2024: Research Assistant for Kazuhiro Teramoto at the Hitotsubashi University, Department of Economics&lt;/li&gt;
+&lt;li&gt;April 2024 - current: Research Assistant for ERATO KOJIMA
+Market Design Project, Social Implementation Group&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL: "https://Hiroakiyusheng.github.io/profile/"
+baseURL: "https://hiroakiyusheng.github.io/"
 canonifyurls: false
 publishDir: "docs"
 title: HiroakiHanyu
@@ -100,15 +100,15 @@ params:
 menu:
   main:
     - name: Research
-      url: /research/
+      url: research/
       weight: 5
     - identifier: CV
       name: CV
-      url: /fixed/CV
+      url: fixed/CV
       weight: 10
     - identifier: Notes
       name: Notes
-      url: /Notes/Notes
+      url: Notes/Notes
       weight: 15
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
