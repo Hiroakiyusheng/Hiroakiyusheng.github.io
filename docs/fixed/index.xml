@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fixeds on HiroakiHanyu</title>
-    <link>http://localhost:1313/fixed/</link>
+    <link>https://hiroakiyusheng.github.io/fixed/</link>
     <description>Recent content in Fixeds on HiroakiHanyu</description>
     <image>
       <title>HiroakiHanyu</title>
-      <url>http://localhost:1313/profile.jpg</url>
-      <link>http://localhost:1313/profile.jpg</link>
+      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
+      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hiroakiyusheng.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/fixed/cv/</link>
+      <link>https://hiroakiyusheng.github.io/fixed/cv/</link>
       <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
-      <guid>http://localhost:1313/fixed/cv/</guid>
+      <guid>https://hiroakiyusheng.github.io/fixed/cv/</guid>
       <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
