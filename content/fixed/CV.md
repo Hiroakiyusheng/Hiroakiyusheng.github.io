@@ -7,11 +7,11 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-## Education
+### Education
  - March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
  - March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan
 
-## Experience
+### Experience
 - January 2021 - March 2023: Research Assistant for Yutaka Arimoto at the Hitotsubashi University, Institute of Economic Research
 - September 2022 - March 2024: Research Assistant for Kazuhiro Teramoto at the Hitotsubashi University, Department of Economics
 - April 2024 - current: Research Assistant for ERATO KOJIMA
