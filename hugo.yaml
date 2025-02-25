@@ -99,17 +99,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: Research
+    - identifier: Research
+      name: Research
       url: research/
       weight: 5
+    - identifier: Outside
+      name: Outside Activity
+      url: fixed/outside_activity
+      weight: 10
     - identifier: CV
       name: CV
       url: fixed/cv
-      weight: 10
+      weight: 15
     - identifier: Notes
       name: Notes
       url: notes/notes
-      weight: 15
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
