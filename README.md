@@ -1,1 +1,1 @@
-source repo. for http://Hiroakiyusheng.github.io
+[Hiroaki Hanyu's web](http://Hiroakiyusheng.github.io)
