@@ -1,45 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Fixeds on HiroakiHanyu</title>
-    <link>https://hiroakiyusheng.github.io/fixed/</link>
-    <description>Recent content in Fixeds on HiroakiHanyu</description>
-    <image>
-      <title>HiroakiHanyu</title>
-      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
-      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
-    </image>
-    <generator>Hugo -- 0.144.2</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
-    <atom:link href="https://hiroakiyusheng.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Activities</title>
-      <link>https://hiroakiyusheng.github.io/fixed/outside_activity/</link>
-      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
-      <guid>https://hiroakiyusheng.github.io/fixed/outside_activity/</guid>
-      <description>&lt;h3 id=&#34;学会発表&#34;&gt;学会発表&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2024年度JAFEE冬季大会　ショートコミュニケーション&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>CV</title>
-      <link>https://hiroakiyusheng.github.io/fixed/cv/</link>
-      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
-      <guid>https://hiroakiyusheng.github.io/fixed/cv/</guid>
-      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
-&lt;li&gt;March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;January 2021 - March 2023: Research Assistant for Yutaka Arimoto at the Hitotsubashi University, Institute of Economic Research&lt;/li&gt;
-&lt;li&gt;September 2022 - March 2024: Research Assistant for Kazuhiro Teramoto at the Hitotsubashi University, Department of Economics&lt;/li&gt;
-&lt;li&gt;April 2024 - current: Research Assistant for ERATO KOJIMA
-Market Design Project, Social Implementation Group&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fixeds on HiroakiHanyu</title><link>https://hiroakiyusheng.github.io/fixed/</link><description>Recent content in Fixeds on HiroakiHanyu</description><image><title>HiroakiHanyu</title><url>https://hiroakiyusheng.github.io/profile.jpg</url><link>https://hiroakiyusheng.github.io/profile.jpg</link></image><generator>Hugo -- 0.144.2</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate><atom:link href="https://hiroakiyusheng.github.io/fixed/index.xml" rel="self" type="application/rss+xml"/><item><title>Activities</title><link>https://hiroakiyusheng.github.io/fixed/outside_activity/</link><pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate><guid>https://hiroakiyusheng.github.io/fixed/outside_activity/</guid><description>&lt;h3 id="学会発表">学会発表&lt;/h3>
+&lt;ul>
+&lt;li>2024年度JAFEE冬季大会　ショートコミュニケーション&lt;/li>
+&lt;/ul></description></item><item><title>CV</title><link>https://hiroakiyusheng.github.io/fixed/cv/</link><pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate><guid>https://hiroakiyusheng.github.io/fixed/cv/</guid><description>&lt;h3 id="education">Education&lt;/h3>
+&lt;ul>
+&lt;li>March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li>
+&lt;li>March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li>
+&lt;/ul>
+&lt;h3 id="experience">Experience&lt;/h3>
+&lt;ul>
+&lt;li>January 2021 - March 2023: Research Assistant for Yutaka Arimoto at the Hitotsubashi University, Institute of Economic Research&lt;/li>
+&lt;li>September 2022 - March 2024: Research Assistant for Kazuhiro Teramoto at the Hitotsubashi University, Department of Economics&lt;/li>
+&lt;li>April 2024 - current: Research Assistant for ERATO KOJIMA
+Market Design Project, Social Implementation Group&lt;/li>
+&lt;/ul></description></item></channel></rss>
