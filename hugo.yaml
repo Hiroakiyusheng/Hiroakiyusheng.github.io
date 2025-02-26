@@ -25,8 +25,6 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  search:
-    enable: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
