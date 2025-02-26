@@ -1,2 +1,4 @@
+theme: 
+url: "https://hiroakiyusheng.github.io/"
 plugins: 
   - jekyll-sitemap

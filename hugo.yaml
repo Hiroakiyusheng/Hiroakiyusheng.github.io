@@ -13,10 +13,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-minify:
-  disableXML: true
-  minifyOutput: true
-
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Hiroaki Hanyu
@@ -29,19 +25,21 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  search:
+    enable: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
 
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -61,7 +59,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hiroaki Hanyu"
-    subtitle: "Doctoral student at Hitotsubashi University"
+    subtitle: "Ph.D student at Hitotsubashi University"
     #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
     imageUrl: "profile.jpg"
     imageWidth: 200
@@ -72,10 +70,18 @@ params:
     #       url: posts
 
   socialIcons:
+    - name: "googlescholar"
+      url: ""
+    - name: "email"
+      url: "mailto: hiro.hanyu242000[at]gmail.com"
     - name: twitter
       url: "https://twitter.com/hirohafinecon"
     - name: github
       url: "https://github.com/Hiroakiyusheng"
+
+  schema:
+    publisherType: "Person"
+    sameAs: ["https://twitter.com/hirohafinecon", "https://github.com/hiroakiyusheng/"]
 
   cover:
     hidden: true # hide everywhere but not in structured data
