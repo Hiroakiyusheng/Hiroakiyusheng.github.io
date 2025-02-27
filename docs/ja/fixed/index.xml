@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fixeds on 羽生寛明</title>
+    <link>https://hiroakiyusheng.github.io/ja/fixed/</link>
+    <description>Recent content in Fixeds on 羽生寛明</description>
+    <image>
+      <title>羽生寛明</title>
+      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
+      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <atom:link href="https://hiroakiyusheng.github.io/ja/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://hiroakiyusheng.github.io/ja/fixed/cv/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/fixed/cv/</guid>
+      <description>&lt;h3 id=&#34;学歴&#34;&gt;学歴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023年3月 一橋大学　学士（商学）&lt;/li&gt;
+&lt;li&gt;2025年3月 一橋大学　修士（商学）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;職歴&#34;&gt;職歴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021年1月 - 2023年3月: 有本寛氏（一橋大学経済研究所）の研究助手&lt;/li&gt;
+&lt;li&gt;2022年9月 - 2024年3月: 寺本和宏（一橋大学経済学研究科）の研究助手&lt;/li&gt;
+&lt;li&gt;2024年4月 - 現在: ERATO小島マーケットデザインプロジェクト、社会実装グループの研究助手&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>外部活動</title>
+      <link>https://hiroakiyusheng.github.io/ja/fixed/outside_activity/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/fixed/outside_activity/</guid>
+      <description>&lt;h3 id=&#34;学会発表&#34;&gt;学会発表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年2月15日　第62回2024年度冬季JAFEE大会（東京大学本郷キャンパス&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

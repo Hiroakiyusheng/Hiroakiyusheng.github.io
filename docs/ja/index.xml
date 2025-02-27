@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>羽生寛明</title>
+    <link>https://hiroakiyusheng.github.io/ja/</link>
+    <description>Recent content on 羽生寛明</description>
+    <image>
+      <title>羽生寛明</title>
+      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
+      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <atom:link href="https://hiroakiyusheng.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://hiroakiyusheng.github.io/ja/fixed/cv/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/fixed/cv/</guid>
+      <description>&lt;h3 id=&#34;学歴&#34;&gt;学歴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023年3月 一橋大学　学士（商学）&lt;/li&gt;
+&lt;li&gt;2025年3月 一橋大学　修士（商学）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;職歴&#34;&gt;職歴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021年1月 - 2023年3月: 有本寛氏（一橋大学経済研究所）の研究助手&lt;/li&gt;
+&lt;li&gt;2022年9月 - 2024年3月: 寺本和宏（一橋大学経済学研究科）の研究助手&lt;/li&gt;
+&lt;li&gt;2024年4月 - 現在: ERATO小島マーケットデザインプロジェクト、社会実装グループの研究助手&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://hiroakiyusheng.github.io/ja/notes/notes_links/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/notes/notes_links/</guid>
+      <description>&lt;h3 id=&#34;ファイナンス&#34;&gt;ファイナンス&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Hiroakiyusheng/finance_methods/tree/master&#34;&gt;ファイナンスのための確率解析&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>外部活動</title>
+      <link>https://hiroakiyusheng.github.io/ja/fixed/outside_activity/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/fixed/outside_activity/</guid>
+      <description>&lt;h3 id=&#34;学会発表&#34;&gt;学会発表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年2月15日　第62回2024年度冬季JAFEE大会（東京大学本郷キャンパス&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>研究内容</title>
+      <link>https://hiroakiyusheng.github.io/ja/research/work_in_progress/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/ja/research/work_in_progress/</guid>
+      <description>&lt;h2 id=&#34;債券利回りと個人の期待&#34;&gt;債券利回りと個人の期待&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;インフレリスクプレミアムの推定方法&lt;/li&gt;
+&lt;li&gt;TIPSを用いた予想インフレ率の推定方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;行動マクロファイナンス&#34;&gt;行動マクロファイナンス&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;経験に基づく学習モデル（EBL）&lt;/li&gt;
+&lt;li&gt;診断的期待と金融市場を通じたマクロ経済的影響&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;連続時間平均分散最適化&#34;&gt;連続時間平均分散最適化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;保険会社の最適投資・再保険戦略&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;その他の金融市場&#34;&gt;その他の金融市場&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リスクと情報摩擦下での選好推定：競馬市場の高頻度時系列データ（寺本和弘、大谷克と共著）&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

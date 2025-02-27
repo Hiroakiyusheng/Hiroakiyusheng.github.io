@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://hiroakiyusheng.github.io/fixed/outside_activity/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/fixed/cv/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/fixed/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/notes/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/notes/notes/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/research/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/research/work_in_progress/</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></url><url><loc>https://hiroakiyusheng.github.io/categories/</loc></url><url><loc>https://hiroakiyusheng.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://hiroakiyusheng.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T03:58:59+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hiroakiyusheng.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T03:58:59+09:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

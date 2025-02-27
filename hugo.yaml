@@ -13,6 +13,62 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+defaultContentLanguage: "en"
+languages:
+  en:
+    languageCode: "en"
+    title: "Hiroaki Hanyu"
+    languageName: "English"
+    weight: 1
+    taxonomies: 
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Research
+          url: /research
+          weight: 5
+        - name: Outside Activity
+          url: /fixed/outside_activity
+          weight: 10
+        - name: CV
+          url: /fixed/cv
+          weight: 15
+        - name: Notes
+          url: /notes/notes_links
+          weight: 20
+  ja:
+    languageCode: "ja"
+    languageName: "日本語"
+    title: "羽生寛明"
+    weight: 2
+    taxonomies: 
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 研究
+          url: /research
+          weight: 5
+        - name: 外部活動
+          url: /fixed/outside_activity
+          weight: 10
+        - name: 経歴
+          url: /fixed/cv
+          weight: 15
+        - name: ノート
+          url: /notes/notes_links
+          weight: 20
+    params:
+      homeInfoParams:
+        Title: "羽生　寛明"
+        Content: >
+          一橋大学大学院経営管理研究科博士後期課程に在籍しています。
+          
+          **資産価格理論**、**マクロ経済学**、**行動ファイナンス**に関心を持って研究しています。
+
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Hiroaki Hanyu
@@ -36,8 +92,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: true
-  tocopen: true
+  showtoc: false
+  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -55,9 +111,9 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: "Hiroaki Hanyu"
-    subtitle: "Ph.D student at Hitotsubashi University"
+    subtitle: "Ph.D student in Finance at Hitotsubashi University"
     #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
     imageUrl: "profile.jpg"
     imageWidth: 200
@@ -66,6 +122,13 @@ params:
     # buttons:
     #     - name: Posts
     #       url: posts
+
+  homeInfoParams:
+    Title: "Hiroaki Hanyu's website"
+    Content: >
+      I am a Ph.D student in Finance at Hitotsubashi University（一橋大学）. 
+      
+      My research interests are in the field of **Asset Pricing**, **Macroeconommics**, **Behavioral Finance**
 
   socialIcons:
     - name: "googlescholar"
@@ -101,24 +164,24 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: Research
-      name: Research
-      url: research/
-      weight: 5
-    - identifier: Outside
-      name: Outside Activity
-      url: fixed/outside_activity
-      weight: 10
-    - identifier: CV
-      name: CV
-      url: fixed/cv
-      weight: 15
-    - identifier: Notes
-      name: Notes
-      url: notes/notes
-      weight: 20
+# menu:
+#   main:
+#     - identifier: Research
+#       name: Research
+#       url: /research
+#       weight: 5
+#     - identifier: Outside
+#       name: Outside Activity
+#       url: /fixed/outside_activity
+#       weight: 10
+#     - identifier: CV
+#       name: CV
+#       url: /fixed/cv
+#       weight: 15
+#     - identifier: Notes
+#       name: Notes
+#       url: /notes/notes_links
+#       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
