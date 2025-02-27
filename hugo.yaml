@@ -12,6 +12,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+mainsections: ["fixed", "research"]
 
 defaultContentLanguage: "en"
 languages:

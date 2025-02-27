@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hiroakiyusheng.github.io/fixed/outside_activity/</loc>
+    <loc>https://hiroakiyusheng.github.io/research/work_in_progress/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/fixed/outside_activity/"
+                href="https://hiroakiyusheng.github.io/ja/research/work_in_progress/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/fixed/outside_activity/"
+                href="https://hiroakiyusheng.github.io/research/work_in_progress/"
                 />
   </url><url>
     <loc>https://hiroakiyusheng.github.io/fixed/cv/</loc>
@@ -26,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hiroakiyusheng.github.io/fixed/cv/"
+                />
+  </url><url>
+    <loc>https://hiroakiyusheng.github.io/fixed/outside_activity/</loc>
+    <lastmod>2025-02-25T03:58:59+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hiroakiyusheng.github.io/ja/fixed/outside_activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hiroakiyusheng.github.io/fixed/outside_activity/"
                 />
   </url><url>
     <loc>https://hiroakiyusheng.github.io/fixed/</loc>
@@ -91,19 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hiroakiyusheng.github.io/"
-                />
-  </url><url>
-    <loc>https://hiroakiyusheng.github.io/research/work_in_progress/</loc>
-    <lastmod>2025-02-25T03:58:59+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/research/work_in_progress/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hiroakiyusheng.github.io/research/work_in_progress/"
                 />
   </url><url>
     <loc>https://hiroakiyusheng.github.io/categories/</loc>

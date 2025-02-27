@@ -14,32 +14,25 @@
     <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
     <atom:link href="https://hiroakiyusheng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Activities</title>
-      <link>https://hiroakiyusheng.github.io/fixed/outside_activity/</link>
+      <title>Work in Progress</title>
+      <link>https://hiroakiyusheng.github.io/research/work_in_progress/</link>
       <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
-      <guid>https://hiroakiyusheng.github.io/fixed/outside_activity/</guid>
-      <description>&lt;h3 id=&#34;presentation&#34;&gt;Presentation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;62nd Winter JAFEE Conference at the University of Tokyo, Hongo Campus, Tokyo, Japan (February 15, 2025)&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>https://hiroakiyusheng.github.io/research/work_in_progress/</guid>
+      <description>Works in interest, Coauthors</description>
     </item>
     <item>
       <title>CV</title>
       <link>https://hiroakiyusheng.github.io/fixed/cv/</link>
       <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
       <guid>https://hiroakiyusheng.github.io/fixed/cv/</guid>
-      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
-&lt;li&gt;March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;January 2021 - March 2023: Research Assistant for Yutaka Arimoto at the Hitotsubashi University, Institute of Economic Research&lt;/li&gt;
-&lt;li&gt;September 2022 - March 2024: Research Assistant for Kazuhiro Teramoto at the Hitotsubashi University, Department of Economics&lt;/li&gt;
-&lt;li&gt;April 2024 - current: Research Assistant for ERATO KOJIMA
-Market Design Project, Social Implementation Group&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Education, RA, and TA</description>
+    </item>
+    <item>
+      <title>Outside Activity</title>
+      <link>https://hiroakiyusheng.github.io/fixed/outside_activity/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/fixed/outside_activity/</guid>
+      <description>Presentations and Participations in Conferences</description>
     </item>
     <item>
       <title>Notes</title>
@@ -47,30 +40,6 @@ Market Design Project, Social Implementation Group&lt;/li&gt;
       <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
       <guid>https://hiroakiyusheng.github.io/notes/notes_links/</guid>
       <description>&lt;h3 id=&#34;finance&#34;&gt;Finance&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Work in Progress</title>
-      <link>https://hiroakiyusheng.github.io/research/work_in_progress/</link>
-      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
-      <guid>https://hiroakiyusheng.github.io/research/work_in_progress/</guid>
-      <description>&lt;h2 id=&#34;bond-yield-and-individual-expectations&#34;&gt;Bond Yield and Individual Expectations&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Estimation Methods of Inflation Risk Premium&lt;/li&gt;
-&lt;li&gt;Estimation Mehtods of Expected Inflation Rates with TIPS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;behavioural-macro-finance&#34;&gt;Behavioural Macro-Finance&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience Based Learning Models with an OLG Framework&lt;/li&gt;
-&lt;li&gt;Diagnostic Expectations and Macroeconomic Consequences via Financial Markets&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;continuous-time-mean-variance-optimization&#34;&gt;Continuous-Time Mean-Variance Optimization&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Optimal Investment-Reinsurance Strategies for insurers with a Stochastic Gaussian Factor Model&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-financial-markets&#34;&gt;Other Financial Markets&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Preferences under Risk and Information Frictions: Evidence from High-Frequency Racetrack Betting Data (with Kazuhiro Teramoto, Suguru Otani)&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
