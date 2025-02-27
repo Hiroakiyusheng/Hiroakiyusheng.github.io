@@ -2,7 +2,7 @@
 date: '2025-02-25T03:58:59+09:00'
 draft: false
 title: 'CV'
-summary: 学歴、RA、TA
+summary: '学歴、RA、TA'
 weight: 2
 hideMeta: true
 ShowBreadCrumbs: false
