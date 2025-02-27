@@ -69,6 +69,7 @@ languages:
           一橋大学大学院経営管理研究科博士後期課程に在籍しています。
           
           **資産価格理論**、**マクロ経済学**、**行動ファイナンス**に関心を持って研究しています。
+      image: "profile.jpg"
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -78,6 +79,10 @@ params:
   author: Hiroaki Hanyu
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
+  header: 
+          title: "Hiroaki Hanyu"
+          imageURL: "profile.jpg"
+          subtitle: "Ph.D student in Finance at Hitotsubashi University"
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -127,9 +132,10 @@ params:
   homeInfoParams:
     Title: "Hiroaki Hanyu's website"
     Content: >
-      I am a Ph.D student in Finance at Hitotsubashi University（一橋大学）. 
+      I am a Ph.D student in Finance at Hitotsubashi University (一橋大学) in Japan. 
       
       My research interests are in the field of **Asset Pricing**, **Macroeconommics**, **Behavioral Finance**
+    image: "profile.jpg"
 
   socialIcons:
     - name: "googlescholar"
@@ -146,7 +152,9 @@ params:
     sameAs: ["https://twitter.com/hirohafinecon", "https://github.com/hiroakiyusheng/"]
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    image: "profile.jpg"
+    relative: true
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 

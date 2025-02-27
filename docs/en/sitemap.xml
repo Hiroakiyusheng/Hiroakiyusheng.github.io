@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hiroakiyusheng.github.io/research/work_in_progress/</loc>
+    <loc>http://localhost:1313/research/work_in_progress/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/research/work_in_progress/"
+                href="http://localhost:1313/ja/research/work_in_progress/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/research/work_in_progress/"
+                href="http://localhost:1313/research/work_in_progress/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/fixed/cv/</loc>
+    <loc>http://localhost:1313/fixed/cv/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/fixed/cv/"
+                href="http://localhost:1313/ja/fixed/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/fixed/cv/"
+                href="http://localhost:1313/fixed/cv/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/fixed/outside_activity/</loc>
+    <loc>http://localhost:1313/fixed/outside_activity/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/fixed/outside_activity/"
+                href="http://localhost:1313/ja/fixed/outside_activity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/fixed/outside_activity/"
+                href="http://localhost:1313/fixed/outside_activity/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/fixed/</loc>
+    <loc>http://localhost:1313/fixed/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/fixed/"
+                href="http://localhost:1313/ja/fixed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/fixed/"
+                href="http://localhost:1313/fixed/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/notes/"
+                href="http://localhost:1313/ja/notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/notes/"
+                href="http://localhost:1313/notes/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/notes/notes_links/</loc>
+    <loc>http://localhost:1313/notes/notes_links/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/notes/notes_links/"
+                href="http://localhost:1313/ja/notes/notes_links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/notes/notes_links/"
+                href="http://localhost:1313/notes/notes_links/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/research/"
+                href="http://localhost:1313/ja/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/research/"
+                href="http://localhost:1313/research/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-25T03:58:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/"
+                href="http://localhost:1313/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/categories/"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/series/"
+                href="http://localhost:1313/ja/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://hiroakiyusheng.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroakiyusheng.github.io/ja/tags/"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroakiyusheng.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Hiroaki Hanyu</title>
-    <link>https://hiroakiyusheng.github.io/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Hiroaki Hanyu</description>
     <image>
       <title>Hiroaki Hanyu</title>
-      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
-      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
-    <atom:link href="https://hiroakiyusheng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
