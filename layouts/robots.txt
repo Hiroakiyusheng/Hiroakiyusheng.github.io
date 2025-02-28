@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://hiroakiyusheng.github.io/sitemap.xml
