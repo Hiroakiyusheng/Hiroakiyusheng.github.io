@@ -7,7 +7,7 @@ pagination:
 theme: PaperMod
 
 enableEmoji: true
-enableRobotsTXT: true
+enableRobotsTXT: false
 
 buildDrafts: false
 buildFuture: false
