@@ -10,16 +10,24 @@ ShowPostNavLinks: false
 ---
 
 ### Education
- - March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
- - March, 2025 M.A. in Commerce, Hitotsubashi University, Tokyo, Japan
+- current Ph.D in Commerce, Hitotsubashi University School of Bussiness Administration, Tokyo, Japan
+- March, 2025 M.A. in Commerce, Hitotsubashi University School of Business Administration, Tokyo, Japan
+- March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
 
 ### RA
-- January 2021 - March 2023: Research Assistant for [Yutaka Arimoto](https://sites.google.com/site/yutakaarimoto/home) at the Hitotsubashi University, Institute of Economic Research
-- September 2022 - March 2024: Research Assistant for [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home) at the Hitotsubashi University, Department of Economics
 - April 2024 - current: Research Assistant for [ERATO KOJIMA Market Design Project](https://www.jst.go.jp/erato/kojima/en/index.html), Social Implementation Group
+- September 2022 - March 2024: Research Assistant for [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home) at the Hitotsubashi University, Department of Economics
+- January 2021 - March 2023: Research Assistant for [Yutaka Arimoto](https://sites.google.com/site/yutakaarimoto/home) at the Hitotsubashi University, Institute of Economic Research
 
 ### TA
-- April 2023 - July 2023: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
-- September 2023 - December 2023: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
+- September 2025 - December 2025: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
+
 - April 2024 - July 2024: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
+
 - April 2024 - July 2024: Calculus II (Hitotsubashi University General Education course)
+
+- September 2023 - December 2023: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
+
+- April 2023 - July 2023: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
+
+

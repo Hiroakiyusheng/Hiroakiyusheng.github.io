@@ -9,14 +9,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-series: ["PaperMod"]
-weight: 1
-aliases: ["/papermod-installation"]
-tags: ["PaperMod", "Docs"]
-author: ["Aditya Telange"]
-cover:
-  image: images/papermod-cover.png
-  hiddenInList: true
+
 ### Bond Yield and Individual Expectations
 - Estimation Methods of Inflation Risk Premium
 - Estimation Mehtods of Expected Inflation Rates with TIPS
