@@ -132,7 +132,7 @@ params:
   homeInfoParams:
     Title: "Hiroaki Hanyu's website"
     Content: >
-      I am a Ph.D student in Finance at Hitotsubashi University (一橋大学) in Japan. 
+      I am Hiroaki Hanyu (羽生寛明), a Ph.D student in Finance at Hitotsubashi University (一橋大学) in Japan. 
       
       My research interests are in the field of **Asset Pricing**, **Macroeconommics**, **Behavioral Finance**
     image: "profile.jpg"
