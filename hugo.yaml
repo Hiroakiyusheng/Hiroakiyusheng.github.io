@@ -73,7 +73,7 @@ languages:
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Hiroaki Hanyu
+  title: 羽生寛明（Hiroaki Hanyu）
   description: "Personal page of Hiroaki Hanyu"
   keywords: [Blog, Portfolio, PaperMod]
   author: Hiroaki Hanyu
