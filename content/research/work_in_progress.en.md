@@ -9,7 +9,10 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
+## Working Paper   
+- [Master's thesis](https://www.dropbox.com/scl/fi/klhg5x6qh0q4ok3dt99j6/EBL20250110.pdf?rlkey=8646kznzvptmn7k8bwoiw1rd1&st=uv7bho26&dl=0)
 
+## Research Project   
 ### Bond Yield and Individual Expectations
 - Estimation Methods of Inflation Risk Premium
 - Estimation Mehtods of Expected Inflation Rates with TIPS
@@ -17,6 +20,9 @@ ShowPostNavLinks: false
 ### Behavioural Macro-Finance
 - Experience Based Learning Models with an OLG Framework
 - Diagnostic Expectations and Macroeconomic Consequences via Financial Markets
+
+### Digital Currency   
+- Pricing Problem with cryptocurrencies   
 
 ### Continuous-Time Mean-Variance Optimization
 - Optimal Investment-Reinsurance Strategies for insurers with a Stochastic Gaussian Factor Model
