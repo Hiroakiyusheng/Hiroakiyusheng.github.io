@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://hiroakiyusheng.github.io/en/sitemap.xml</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></sitemap><sitemap><loc>https://hiroakiyusheng.github.io/ja/sitemap.xml</loc><lastmod>2025-02-25T03:58:59+09:00</lastmod></sitemap></sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://hiroakiyusheng.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T03:58:59+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hiroakiyusheng.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T03:58:59+09:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

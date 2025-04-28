@@ -13,11 +13,11 @@ ShowPostNavLinks: false
 ### 発表予定の学会
 - 2025年5月24日-25日　[日本経済学会](https://www.jeaweb.org)2025年度春季大会
 
+### 過去の学会発表
+- 2025年2月15日　第62回2024年度冬季[JAFEE大会](http://www.jafee.gr.jp/01rally/rally-top.html)（東京大学本郷キャンパス）・ショートコミュニケーション
+
+
 ### 所属学会
 - [日本経済学会](https://www.jeaweb.org)
 - [JAFEE](http://www.jafee.gr.jp/01rally/rally-top.html)
-
-
-### 過去の学会発表
-- 2025年2月15日　第62回2024年度冬季[JAFEE大会](http://www.jafee.gr.jp/01rally/rally-top.html)（東京大学本郷キャンパス）
 

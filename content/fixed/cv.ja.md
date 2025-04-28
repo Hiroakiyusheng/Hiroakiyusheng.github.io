@@ -27,4 +27,4 @@ ShowPostNavLinks: false
 - 2023年4月 - 2023年7月： 上級マクロ経済学（一橋大学大学院経済学研究科、400番台コア科目）
 
 ### 受賞歴
-- 第57回[内藤章記念賞](https://www.hit-u.ac.jp/kyomu/thesis/naitou.html) １等   
+- [第57回内藤章記念賞](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html) １等    

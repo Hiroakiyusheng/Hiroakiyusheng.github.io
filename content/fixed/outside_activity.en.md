@@ -9,15 +9,13 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-### Presentation
-- 62nd Winter JAFEE Conference at the University of Tokyo, Hongo Campus, Tokyo, Japan (February 15, 2025)
 
 ### Upcoming Conferences
-- May 24-25, 2025 [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting
+- May 24-25, 2025. [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting
+
+### Past Conference Presentations
+- February 15, 2025. 62nd 2024 Winter [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) (University of Tokyo, Hongo Campus) Short Communication
 
 ### Memberships
 - [Japan Economic Association](https://www.jeaweb.org)
 - [JAFEE](http://www.jafee.gr.jp/01rally/rally-top.html)
-
-### Past Conference Presentations
-- February 15, 2025 62nd 2024 Winter [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) (University of Tokyo, Hongo Campus)
