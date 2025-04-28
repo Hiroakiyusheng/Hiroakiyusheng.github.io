@@ -28,7 +28,7 @@ languages:
     menu:
       main:
         - name: Research
-          url: /research
+          url: /research/work_in_progress
           weight: 5
         - name: Outside Activity
           url: /fixed/outside_activity
@@ -51,7 +51,7 @@ languages:
     menu:
       main:
         - name: 研究
-          url: /research
+          url: /research/work_in_progress
           weight: 5
         - name: 外部活動
           url: /fixed/outside_activity

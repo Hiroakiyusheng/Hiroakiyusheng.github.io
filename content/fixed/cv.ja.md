@@ -16,7 +16,7 @@ ShowPostNavLinks: false
 - 2023年3月 一橋大学経営管理研究科　学士（商学）
 
 ### RA
-- 2024年4月 - 現在: [ERATO小島マーケットデザインプロジェクト](https://www.jst.go.jp/erato/kojima/index.html)・社会実装グループの研究助手
+- 2024年4月 - 現在: [ERATO小島マーケットデザインプロジェクト・社会実装グループ](https://www.jst.go.jp/erato/kojima/index.html)の研究助手（[Member](https://www.jst.go.jp/erato/kojima/member/index.html)）
 - 2022年9月 - 2024年3月: [寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)（一橋大学経済学研究科）の研究助手
 - 2021年1月 - 2023年3月: [有本寛氏](https://sites.google.com/site/yutakaarimoto/japanese)（一橋大学経済研究所）の研究助手
 
@@ -27,4 +27,4 @@ ShowPostNavLinks: false
 - 2023年4月 - 2023年7月： 上級マクロ経済学（一橋大学大学院経済学研究科、400番台コア科目）
 
 ### 受賞歴
-- [第57回内藤章記念賞](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html) １等    
+- [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html) （詳細：研究）
