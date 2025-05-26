@@ -11,9 +11,11 @@ ShowPostNavLinks: false
 
 
 ### Upcoming Conferences
-- May 24-25, 2025. [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting
+- September 2-4, 2025. [日本応用数理学会](https://jsiam.org/jsiam_archive/past_meetings/annual2025/)
+- August 7, 2025. [SWET マーケットデザインセクション](https://sites.google.com/view/swetotaruhokudai/swet2025/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)
 
 ### Past Conference Presentations
+- May 24-25, 2025. [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting
 - February 15, 2025. 62nd 2024 Winter [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) (University of Tokyo, Hongo Campus) Short Communication
 
 ### Memberships
