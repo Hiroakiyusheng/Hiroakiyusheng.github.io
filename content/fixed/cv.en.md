@@ -20,10 +20,10 @@ ShowPostNavLinks: false
 - January 2021 - March 2023: Research Assistant for [Yutaka Arimoto](https://sites.google.com/site/yutakaarimoto/home) at the Hitotsubashi University, Institute of Economic Research
 
 ### TA
+- September 2025 - December 2025: Financial Economics A1 (Hitotsubashi University Faculty of Economics, 300-level selective course)
 - September 2025 - December 2025: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
 
 - April 2024 - July 2024: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
-
 - April 2024 - July 2024: Calculus II (Hitotsubashi University General Education course)
 
 - September 2023 - December 2023: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)

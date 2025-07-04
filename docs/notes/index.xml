@@ -1,19 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Notes on Hiroaki Hanyu</title><link>https://hiroakiyusheng.github.io/notes/</link><description>Recent content in Notes on Hiroaki Hanyu</description><image><title>Hiroaki Hanyu</title><url>https://hiroakiyusheng.github.io/profile.jpg</url><link>https://hiroakiyusheng.github.io/profile.jpg</link></image><generator>Hugo -- 0.144.2</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate><atom:link href="https://hiroakiyusheng.github.io/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>https://hiroakiyusheng.github.io/notes/notes_links/</link><pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate><guid>https://hiroakiyusheng.github.io/notes/notes_links/</guid><description>&lt;h3 id="research-project">Research Project&lt;/h3>
-&lt;h4 id="bond-yield-and-individual-expectations">Bond Yield and Individual Expectations&lt;/h4>
-&lt;ul>
-&lt;li>Estimation Methods of Inflation Risk Premium&lt;/li>
-&lt;li>Estimation Mehtods of Expected Inflation Rates with TIPS&lt;/li>
-&lt;/ul>
-&lt;h4 id="behavioural-macro-finance">Behavioural Macro-Finance&lt;/h4>
-&lt;ul>
-&lt;li>Experience Based Learning Models with an OLG Framework&lt;/li>
-&lt;li>Diagnostic Expectations and Macroeconomic Consequences via Financial Markets&lt;/li>
-&lt;/ul>
-&lt;h4 id="digital-currency">Digital Currency&lt;/h4>
-&lt;ul>
-&lt;li>Pricing Problem with cryptocurrencies&lt;/li>
-&lt;/ul>
-&lt;h4 id="continuous-time-mean-variance-optimization">Continuous-Time Mean-Variance Optimization&lt;/h4>
-&lt;ul>
-&lt;li>Optimal Investment-Reinsurance Strategies for insurers with a Stochastic Gaussian Factor Model&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Hiroaki Hanyu</title>
+    <link>https://hiroakiyusheng.github.io/notes/</link>
+    <description>Recent content in Notes on Hiroaki Hanyu</description>
+    <image>
+      <title>Hiroaki Hanyu</title>
+      <url>https://hiroakiyusheng.github.io/profile.jpg</url>
+      <link>https://hiroakiyusheng.github.io/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <atom:link href="https://hiroakiyusheng.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://hiroakiyusheng.github.io/notes/notes_links/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/notes/notes_links/</guid>
+      <description>&lt;h3 id=&#34;research-project&#34;&gt;Research Project&lt;/h3&gt;
+&lt;h4 id=&#34;bond-yield-and-individual-expectations&#34;&gt;Bond Yield and Individual Expectations&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimation Methods of Inflation Risk Premium&lt;/li&gt;
+&lt;li&gt;Estimation Mehtods of Expected Inflation Rates with TIPS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;behavioural-macro-finance&#34;&gt;Behavioural Macro-Finance&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience Based Learning Models with an OLG Framework&lt;/li&gt;
+&lt;li&gt;Diagnostic Expectations and Macroeconomic Consequences via Financial Markets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;digital-currency&#34;&gt;Digital Currency&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pricing Problem with cryptocurrencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;continuous-time-mean-variance-optimization&#34;&gt;Continuous-Time Mean-Variance Optimization&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimal Investment-Reinsurance Strategies for insurers with a Stochastic Gaussian Factor Model&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
