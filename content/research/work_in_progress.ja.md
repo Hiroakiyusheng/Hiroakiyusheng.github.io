@@ -14,7 +14,7 @@ ShowPostNavLinks: false
 - [『経験依存的学習行動が資産価格変動へ与える影響〜連続時間世代重複モデルによるアプローチ〜』](https://www.dropbox.com/scl/fi/klhg5x6qh0q4ok3dt99j6/EBL20250110.pdf?rlkey=8646kznzvptmn7k8bwoiw1rd1&st=uv7bho26&dl=0) 一橋大学大学院経営管理研究科・修士論文（第57回内藤章記念論文賞・第1等）
 
 #### Working Paper      
-- "Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model" (with Hiroaki Hata and Kazuhiro Yasuda) **under review at Asia-Pacific Financial Markets**
+- "Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model.", (2025) **submitted to Asia-Pacific Financial Markets** (joint work with Hiroaki Hata and Kazuhiro Yasuda; *corresponding author*)
 
 
 ### 研究テーマ    
