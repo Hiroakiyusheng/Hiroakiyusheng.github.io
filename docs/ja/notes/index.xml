@@ -1,20 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Notes on 羽生寛明</title><link>https://hiroakiyusheng.github.io/ja/notes/</link><description>Recent content in Notes on 羽生寛明</description><image><title>羽生寛明</title><url>https://hiroakiyusheng.github.io/profile.jpg</url><link>https://hiroakiyusheng.github.io/profile.jpg</link></image><generator>Hugo -- 0.144.2</generator><language>ja</language><lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate><atom:link href="https://hiroakiyusheng.github.io/ja/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>https://hiroakiyusheng.github.io/ja/notes/notes_links/</link><pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate><guid>https://hiroakiyusheng.github.io/ja/notes/notes_links/</guid><description>&lt;h3 id="ファイナンス">ファイナンス&lt;/h3>
-&lt;p>&lt;a href="https://github.com/Hiroakiyusheng/finance_methods/tree/master">ファイナンスのための確率解析&lt;/a>&lt;/p>
-&lt;h3 id="研究対象">研究対象&lt;/h3>
-&lt;h4 id="個人のマクロ経済に対する期待">個人のマクロ経済に対する期待&lt;/h4>
-&lt;ul>
-&lt;li>資産価格アプローチによる期待インフレ率の推定&lt;/li>
-&lt;/ul>
-&lt;h4 id="行動マクロファイナンス">行動マクロファイナンス&lt;/h4>
-&lt;ul>
-&lt;li>経験に基づく学習モデル（EBL）&lt;/li>
-&lt;li>診断的期待と資産価格変動への影響&lt;/li>
-&lt;/ul>
-&lt;h4 id="仮想通貨">仮想通貨&lt;/h4>
-&lt;ul>
-&lt;li>仮想通貨の資産価格付け問題&lt;/li>
-&lt;/ul>
-&lt;h4 id="連続時間平均分散最適化">連続時間平均分散最適化&lt;/h4>
-&lt;ul>
-&lt;li>保険会社の最適投資・再保険戦略&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on 羽生寛明</title>
+    <link>http://localhost:1313/ja/notes/</link>
+    <description>Recent content in Notes on 羽生寛明</description>
+    <image>
+      <title>羽生寛明</title>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/ja/notes/notes_links/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>http://localhost:1313/ja/notes/notes_links/</guid>
+      <description>&lt;h3 id=&#34;ファイナンス&#34;&gt;ファイナンス&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Hiroakiyusheng/finance_methods/tree/master&#34;&gt;ファイナンスのための確率解析&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;研究対象&#34;&gt;研究対象&lt;/h3&gt;
+&lt;h4 id=&#34;個人のマクロ経済に対する期待&#34;&gt;個人のマクロ経済に対する期待&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;資産価格アプローチによる期待インフレ率の推定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;行動マクロファイナンス&#34;&gt;行動マクロファイナンス&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;経験に基づく学習モデル（EBL）&lt;/li&gt;
+&lt;li&gt;診断的期待と資産価格変動への影響&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;仮想通貨&#34;&gt;仮想通貨&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;仮想通貨の資産価格付け問題&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;連続時間平均分散最適化&#34;&gt;連続時間平均分散最適化&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;保険会社の最適投資・再保険戦略&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

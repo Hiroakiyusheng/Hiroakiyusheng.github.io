@@ -14,10 +14,16 @@ ShowPostNavLinks: false
 - [Master's thesis](https://www.dropbox.com/scl/fi/klhg5x6qh0q4ok3dt99j6/EBL20250110.pdf?rlkey=8646kznzvptmn7k8bwoiw1rd1&st=uv7bho26&dl=0) (Paper Awarded at Hitotsubashi University)
 
 #### Working Paper   
-- "Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model.", (2025) **submitted to Asia-Pacific Financial Markets** (joint work with Hiroaki Hata and Kazuhiro Yasuda; *corresponding author*)
+- "Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"
+  *(with Shunsuke Ishii, [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home); 2025)* — [**UTMD Working Paper Series No. 093**](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)  
 
-#### Research Project   
-- Preferences under Risk and Information Frictions: Evidence from High-Frequency Racetrack Betting Data (with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home), [Suguru Otani](https://sites.google.com/site/suguruotaniecon))
+- “Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model.”  
+  *(with Hiroaki Hata and Kazuhiro Yasuda; 2025)* — **submitted to Asia-Pacific Financial Markets** **(corresponding author)**
+
+--- 
+
+### Research Project   
+- Preferences under Risk and Information Frictions: Evidence from High-Frequency Racetrack Betting Data (with Shunsuke Ishii, [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home))
 - Estimation Mehtods of Expected Inflation Rates with TIPS
 - Experience Based Learning Models with an OLG Framework
 - Diagnostic Expectations and Macroeconomic Consequences via Financial Markets
