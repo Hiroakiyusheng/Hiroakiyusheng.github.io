@@ -14,8 +14,10 @@ ShowPostNavLinks: false
 - [Master's thesis](https://www.dropbox.com/scl/fi/klhg5x6qh0q4ok3dt99j6/EBL20250110.pdf?rlkey=8646kznzvptmn7k8bwoiw1rd1&st=uv7bho26&dl=0) (Paper Awarded at Hitotsubashi University)
 
 #### Working Paper   
-- "Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"
-  *(with Shunsuke Ishii, [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home); 2025)* — [**UTMD Working Paper Series No. 093**](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)  
+- "Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"  
+  *(with Shunsuke Ishii, [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home); 2025)* —  
+  [**UTMD Working Paper Series No. 093**](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093) | [**arXiv:2509.14645**](https://arxiv.org/abs/2509.14645)  
+
 
 - “Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model.”  
   *(with Hiroaki Hata and Kazuhiro Yasuda; 2025)* — **submitted to Asia-Pacific Financial Markets** **(corresponding author)**

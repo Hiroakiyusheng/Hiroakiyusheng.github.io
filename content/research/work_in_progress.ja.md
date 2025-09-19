@@ -18,7 +18,9 @@ ShowPostNavLinks: false
 
 #### Working Papers
 - "Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"  
-  *(石井俊輔氏、[大谷克氏](https://sites.google.com/site/suguruotaniecon)、[寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)との共著; 2025)* — [**UTMD Working Paper Series No. 093**](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)  
+  *(石井俊祐氏、[大谷克氏](https://sites.google.com/site/suguruotaniecon)、[寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)との共著; 2025)* —  
+  [**UTMD Working Paper Series No. 093**](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093) ｜ [**arXiv:2509.14645**](https://arxiv.org/abs/2509.14645)  
+
 
 - "Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."  
   *(畑宏明氏、安田和弘氏との共著; 2025)* — **submitted to Asia-Pacific Financial Markets** **(責任著者)**
