@@ -11,7 +11,7 @@ ShowPostNavLinks: false
 
 ### Upcoming Conferences
 - November 1–2, 2025 — *TBA*  
-  [NANZAN–Hitotsubashi Finance](https://rci.nanzan-u.ac.jp/m-center/workshop/)  
+  [NANZAN–Hitotsubashi Finance](https://sites.google.com/view/hnfws2025/?pli=1&authuser=1)  
   (Hitotsubashi University, Kunitachi Campus)
 
 ### Past Conference Presentations

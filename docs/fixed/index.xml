@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 03:58:59 +0900</lastBuildDate>
     <atom:link href="https://hiroakiyusheng.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
@@ -19,6 +19,13 @@
       <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
       <guid>https://hiroakiyusheng.github.io/fixed/cv/</guid>
       <description>Education, RA, and TA</description>
+    </item>
+    <item>
+      <title>Outside Activity</title>
+      <link>https://hiroakiyusheng.github.io/fixed/outside_activity/</link>
+      <pubDate>Sat, 20 Sep 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/fixed/outside_activity/</guid>
+      <description>Presentations and Participations in Conferences</description>
     </item>
   </channel>
 </rss>

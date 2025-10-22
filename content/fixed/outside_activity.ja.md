@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 
 ### 発表予定の学会・プレゼンテーション
 - 2025年11月1日–2日 — *TBA*  
-  [NANZAN-Hitotsubashiファイナンス](https://rci.nanzan-u.ac.jp/m-center/workshop/)  
+  [NANZAN-Hitotsubashiファイナンス](https://sites.google.com/view/hnfws2025/?pli=1&authuser=1)  
   （一橋大学国立キャンパス）
 
 ### 過去の学会発表
