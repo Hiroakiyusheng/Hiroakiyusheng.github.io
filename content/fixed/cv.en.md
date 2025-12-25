@@ -2,9 +2,10 @@
 date: '2025-02-25T03:58:59+09:00'
 draft: false
 title: 'CV'
-summary: Education, RA, and TA
+summary: 'Education, Career & Awards'
 weight: 2
 hideMeta: true
+hidetitle: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
@@ -29,5 +30,12 @@ ShowPostNavLinks: false
 - September 2023 - December 2023: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
 
 - April 2023 - July 2023: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
+
+### Awards
+- <span class="award">🏆 [57th Naito Akira Memorial Paper Award, First Prize](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span> (Master's Thesis)
+- <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper)
+
+### Skills
+- **Programming Languages**: Python, R, Julia, MATLAB, LaTeX
 
 

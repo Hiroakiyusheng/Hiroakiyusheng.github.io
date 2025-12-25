@@ -69,7 +69,7 @@ languages:
           一橋大学大学院経営管理研究科博士後期課程に在籍しています。
           
           **資産価格理論**、**マクロ経済学**、**行動ファイナンス**に関心を持って研究しています。
-      image: "profile_2025.jpg"
+        imageUrl: "profile_2025.JPG"
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -120,14 +120,10 @@ params:
     enabled: false # needs to be explicitly set
     title: "Hiroaki Hanyu"
     subtitle: "Ph.D student in Finance at Hitotsubashi University"
-    #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
-    imageUrl: "profile_2025.jpg"
+    imageUrl: "profile_2025.JPG"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
-    # buttons:
-    #     - name: Posts
-    #       url: posts
 
   homeInfoParams:
     Title: "Hiroaki Hanyu's website"
@@ -135,7 +131,7 @@ params:
       I am Hiroaki Hanyu (羽生寛明), a Ph.D student in Finance at Hitotsubashi University (一橋大学) in Japan. 
       
       My research interests are in the field of **Asset Pricing**, **Macroeconommics**, **Behavioral Finance**
-    image: "profile_2025.jpg"
+    imageUrl: "profile_2025.JPG"
 
   socialIcons:
     - name: "googlescholar"
@@ -193,7 +189,10 @@ params:
 #       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
-# markup:
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 #     highlight:
 #         # anchorLineNos: true
 #         codeFences: true

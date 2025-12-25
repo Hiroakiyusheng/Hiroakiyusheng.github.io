@@ -2,9 +2,10 @@
 date: '2025-02-25T03:58:59+09:00'
 draft: false
 title: 'CV'
-summary: '学歴、RA、TA'
+summary: '学歴・職歴・受賞歴'
 weight: 2
 hideMeta: true
+hidetitle: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
@@ -29,4 +30,8 @@ ShowPostNavLinks: false
 - 2023年4月 - 2023年7月： 上級マクロ経済学（一橋大学大学院経済学研究科、400番台コア科目）
 
 ### 受賞歴
-- [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html) （詳細：研究）
+- <span class="award">🏆 [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span>（修士論文）
+- <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文）
+
+### スキル
+- **プログラミング言語**: Python, R, Julia, MATLAB, LaTeX

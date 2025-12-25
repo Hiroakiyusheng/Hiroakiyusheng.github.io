@@ -1,0 +1,92 @@
+/* 全体の幅を広げる */
+.main {
+    max-width: 900px;
+}
+
+.post-content {
+    max-width: 100%;
+    line-height: 1.8;
+    /* 行間を広げる */
+}
+
+/* リスト項目の余白 */
+.post-content li {
+    margin-bottom: 1em;
+}
+
+/* ネストしたリストの余白を詰める */
+.post-content li ul,
+.post-content li ol {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+.post-content li li {
+    margin-bottom: 0.2em;
+}
+
+/* 賞のスタイル（バッジ風） */
+.award {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    color: #92400e;
+    font-weight: 600;
+    padding: 0.2em 0.6em;
+    border-radius: 4px;
+    font-size: 0.95em;
+}
+
+/* セクション見出しのスタイル */
+.post-content h3 {
+    color: #1a365d;
+    border-bottom: 2px solid #1a365d;
+    padding-bottom: 0.3em;
+    margin-top: 1.5em;
+}
+
+.post-content h4 {
+    color: #1a365d;
+    font-size: 1.1em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    padding-left: 0.8em;
+    border-left: 3px solid #1a365d;
+}
+
+/* リンクの色 */
+.post-content a {
+    color: #0d9488;
+    text-decoration: none;
+    /* 下線を消す */
+}
+
+.post-content a:hover {
+    color: #0f766e;
+    text-decoration: underline;
+    /* ホバー時だけ下線 */
+}
+
+/* ホームページの画像 + テキストレイアウト */
+.home-info-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.home-info-image img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.home-info-text {
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .home-info-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
