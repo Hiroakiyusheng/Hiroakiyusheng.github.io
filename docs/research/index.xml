@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Researches on Hiroaki Hanyu</title><link>https://hiroakiyusheng.github.io/research/</link><description>Recent content in Researches on Hiroaki Hanyu</description><image><title>Hiroaki Hanyu</title><url>https://hiroakiyusheng.github.io/profile_2025.jpg</url><link>https://hiroakiyusheng.github.io/profile_2025.jpg</link></image><generator>Hugo -- 0.147.9</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate><atom:link href="https://hiroakiyusheng.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://hiroakiyusheng.github.io/research/work_in_progress/</link><pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate><guid>https://hiroakiyusheng.github.io/research/work_in_progress/</guid><description>Working Papers &amp;amp; Research Interests</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researches on Hiroaki Hanyu</title>
+    <link>https://hiroakiyusheng.github.io/research/</link>
+    <description>Recent content in Researches on Hiroaki Hanyu</description>
+    <image>
+      <title>Hiroaki Hanyu</title>
+      <url>https://hiroakiyusheng.github.io/profile_2025.jpg</url>
+      <link>https://hiroakiyusheng.github.io/profile_2025.jpg</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Feb 2025 03:58:59 +0900</lastBuildDate>
+    <atom:link href="https://hiroakiyusheng.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://hiroakiyusheng.github.io/research/work_in_progress/</link>
+      <pubDate>Tue, 25 Feb 2025 03:58:59 +0900</pubDate>
+      <guid>https://hiroakiyusheng.github.io/research/work_in_progress/</guid>
+      <description>Working Papers &amp;amp; Research Interests</description>
+    </item>
+  </channel>
+</rss>

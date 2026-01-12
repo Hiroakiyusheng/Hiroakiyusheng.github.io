@@ -19,13 +19,15 @@ ShowPostNavLinks: false
 
 #### Working Papers   
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
-  with [Shunsuke Ishii](https://sishii0418.github.io/), [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home), 2025 (Last updated: Sep. 2025)
+  with [Shunsuke Ishii](https://sishii0418.github.io/), [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home), 2025 (Last updated: Sep. 2025)   
+  - Revise & Resubmit at ***The Economic Journal***  
   - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span>
-  - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]
+  - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]   
+
 
 - **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
   with Hiroaki Hata and Kazuhiro Yasuda, 2025 (corresponding author)
-  - Submitted to ***Asia-Pacific Financial Markets***
+  - Minor revision requested by ***Asia-Pacific Financial Markets***
 
 --- 
 
