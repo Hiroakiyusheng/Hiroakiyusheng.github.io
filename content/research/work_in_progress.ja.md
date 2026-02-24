@@ -13,11 +13,6 @@ ShowPostNavLinks: false
 
 ### 研究論文   
 
-#### 学位論文
-- **『経験依存的学習行動が資産価格変動へ与える影響〜連続時間世代重複モデルによるアプローチ〜』**  
-  一橋大学大学院経営管理研究科・修士論文
-  - <span class="award">🏆 第57回内藤章記念論文賞・第1等</span>
-
 #### Working Papers
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
   [石井俊祐氏](https://sishii0418.github.io/)・[大谷克氏](https://sites.google.com/site/suguruotaniecon)・[寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)との共著, 2025 (最終更新: 2025年9月)   
@@ -25,9 +20,16 @@ ShowPostNavLinks: false
   - <span class="award">🏆 第19回行動経済学会奨励賞</span>
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]
 
+#### Published
 - **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
-  畑宏明氏・安田和弘氏との共著, 2025 (責任著者)
-  - Minor revision requested by ***Asia-Pacific Financial Markets***
+  畑宏明氏・安田和弘氏との共著, 2026 (責任著者)
+  - Forthcoming in ***Asia-Pacific Financial Markets***
+  - JAFEE若手優秀論文賞（受賞予定）
+
+#### 学位論文
+- **『経験依存的学習行動が資産価格変動へ与える影響〜連続時間世代重複モデルによるアプローチ〜』**  
+  一橋大学大学院経営管理研究科・修士論文
+  - <span class="award">🏆 第57回内藤章記念論文賞・第1等</span>
 
 ---
 

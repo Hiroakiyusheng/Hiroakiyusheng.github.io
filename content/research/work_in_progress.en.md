@@ -12,11 +12,6 @@ ShowPostNavLinks: false
 
 ### Paper  
 
-#### Thesis  
-- **"The Effects of Experience-Based Learning on Asset Price Dynamics: An Approach Using a Continuous-Time Overlapping Generations Model"**  
-  Master's Thesis, Graduate School of Business Administration, Hitotsubashi University
-  - <span class="award">🏆 57th Naito Akira Memorial Paper Award, First Prize</span>
-
 #### Working Papers   
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
   with [Shunsuke Ishii](https://sishii0418.github.io/), [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home), 2025 (Last updated: Sep. 2025)   
@@ -24,10 +19,16 @@ ShowPostNavLinks: false
   - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span>
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]   
 
-
+#### Published
 - **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
-  with Hiroaki Hata and Kazuhiro Yasuda, 2025 (corresponding author)
-  - Minor revision requested by ***Asia-Pacific Financial Markets***
+  with Hiroaki Hata and Kazuhiro Yasuda, 2026 (corresponding author)
+  - Forthcoming in ***Asia-Pacific Financial Markets***
+  - JAFEE Young Researcher Excellent Paper Award (expected)
+
+#### Thesis  
+- **"The Effects of Experience-Based Learning on Asset Price Dynamics: An Approach Using a Continuous-Time Overlapping Generations Model"**  
+  Master's Thesis, Graduate School of Business Administration, Hitotsubashi University
+  - <span class="award">🏆 57th Naito Akira Memorial Paper Award, First Prize</span>
 
 --- 
 

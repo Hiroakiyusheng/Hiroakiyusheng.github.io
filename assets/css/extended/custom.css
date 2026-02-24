@@ -203,3 +203,42 @@ body.dark {
 body.dark .post-content a {
     color: #5eead4; /* すでに使っている色なので統一感あり */
 }
+/* 変数の定義 */
+:root {
+    --brand-color: #1a365d; /* ライトモード用の濃いネイビー */
+}
+
+.dark {
+    --brand-color: #93c5fd; /* ダークモード用の明るいブルー（視認性確保） */
+}
+
+/* 修正が必要な箇所に変数を使用 */
+.post-content h3, 
+.post-content h4,
+.post-entry .entry-header h2 {
+    color: var(--brand-color) !important;
+    border-color: var(--brand-color) !important;
+}
+
+/* リストカード内のタイトル色も調整 */
+.post-entry .entry-header h2 {
+    color: var(--brand-color);
+}
+
+/* 論文リストのタイトル太字を少しだけ軽くする */
+.post-content li > strong {
+    font-weight: 600;
+}
+
+/* ダークモード: 本文とリンクの可読性を微調整 */
+body.dark .post-content {
+    color: #c7cbd4;
+}
+
+body.dark .post-content a {
+    color: #57cfc5;
+}
+
+body.dark .post-content a:hover {
+    color: #74e0d7;
+}

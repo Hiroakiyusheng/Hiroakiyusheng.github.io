@@ -1,7 +1,7 @@
 baseURL: "https://hiroakiyusheng.github.io/"
 canonifyurls: false
 publishDir: "docs"
-title: HiroakiHanyu
+title: "Hiroaki Hanyu | 羽生 寛明"
 pagination: 
   pageSize: 5
 theme: PaperMod
@@ -15,13 +15,14 @@ buildExpired: false
 mainsections: ["fixed", "research"]
 
 defaultContentLanguage: "en"
+
 languages:
   en:
     languageCode: "en"
     title: "Hiroaki Hanyu"
     languageName: "English"
     weight: 1
-    taxonomies: 
+    taxonomies:
       category: categories
       tag: tags
       series: series
@@ -39,12 +40,23 @@ languages:
         - name: Notes
           url: /notes/notes_links
           weight: 20
+    params:
+      homeInfoParams:
+        Title: "Hiroaki Hanyu"
+        Content: >
+          Ph.D. student at Hitotsubashi University, Graduate School of Business Administration.
+          
+          My research interests include **Asset Pricing**, **Macroeconomics**, and **Behavioral Finance**. I am currently working on projects related to Disaster Risk and Market Efficiency.
+          
+          [Research](/research/work_in_progress) / [CV](/fixed/cv) / [Notes](/notes/notes_links)
+        imageUrl: "profile_2025.JPG"
+
   ja:
     languageCode: "ja"
     languageName: "日本語"
-    title: "羽生寛明"
+    title: "羽生 寛明"
     weight: 2
-    taxonomies: 
+    taxonomies:
       category: categories
       tag: tags
       series: series
@@ -64,138 +76,59 @@ languages:
           weight: 20
     params:
       homeInfoParams:
-        Title: "羽生　寛明"
+        Title: "羽生 寛明"
         Content: >
-          一橋大学大学院経営管理研究科博士後期課程に在籍しています。
+          一橋大学大学院 経営管理研究科 博士後期課程1年。
           
-          **資産価格理論**、**マクロ経済学**、**行動ファイナンス**に関心を持って研究しています。
+          **資産価格理論**、**マクロ経済学**、**行動ファイナンス**を専門とし、現在は災害リスク（Disaster Risk）や競馬市場の効率性について研究しています。
+          
+          [研究内容](/research/work_in_progress) / [経歴・CV](/fixed/cv) / [ノート](/notes/notes_links)
         imageUrl: "profile_2025.JPG"
 
 params:
-  #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 羽生寛明（Hiroaki Hanyu）
   description: "Personal page of Hiroaki Hanyu"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Finance, Macroeconomics, Asset Pricing, Ph.D.]
   author: Hiroaki Hanyu
-  # author: ["Me", "You"] # multiple authors
   images: ["profile_2025.jpg"]
-  header: 
-          title: "Hiroaki Hanyu"
-          imageURL: "profile_2025.jpg"
-          subtitle: "Ph.D student in Finance at Hitotsubashi University"
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  
+  defaultTheme: light # 信頼感を重視しライトモードをデフォルトに
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
-
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
     favicon: "Thinking_Face_Emoji_large.png"
     favicon16x16: "Thinking_Face_Emoji_large.png"
     favicon32x32: "Thinking_Face_Emoji_large.png"
-    apple_touch_icon: "Thinking_Face_Emoji_large.png"
-    safari_pinned_tab: "Thinking_Face_Emoji_large.png"
 
   label:
     text: "Home"
     # icon: Thinking_Face_Emoji_large.png
     iconHeight: 40
 
-  # profile-mode
+  # Profile Modeは無効化し、視線を下に流す
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: "Hiroaki Hanyu"
-    subtitle: "Ph.D student in Finance at Hitotsubashi University"
-    imageUrl: "profile_2025.JPG"
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: my image
-
-  homeInfoParams:
-    Title: "Hiroaki Hanyu's website"
-    Content: >
-      I am Hiroaki Hanyu (羽生寛明), a Ph.D student in Finance at Hitotsubashi University (一橋大学) in Japan. 
-      
-      My research interests are in the field of **Asset Pricing**, **Macroeconommics**, **Behavioral Finance**
-    imageUrl: "profile_2025.JPG"
+    enabled: false
 
   socialIcons:
     - name: "googlescholar"
-      url: ""
+      url: "https://scholar.google.com/"
     - name: "email"
-      url: "mailto: hiro.hanyu242000[at]gmail.com"
+      url: "mailto:hiro.hanyu242000@gmail.com"
     - name: twitter
       url: "https://twitter.com/hirohafinecon"
     - name: github
       url: "https://github.com/Hiroakiyusheng"
 
-  schema:
-    publisherType: "Person"
-    sameAs: ["https://twitter.com/hirohafinecon", "https://github.com/hiroakiyusheng/"]
-
-  cover:
-    image: "profile_2025.jpg"
-    relative: true
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
   editPost:
-    URL: "https://github.com/Hiroakiyusheng.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Hiroakiyusheng/Hiroakiyusheng.github.io/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-# menu:
-#   main:
-#     - identifier: Research
-#       name: Research
-#       url: /research
-#       weight: 5
-#     - identifier: Outside
-#       name: Outside Activity
-#       url: /fixed/outside_activity
-#       weight: 10
-#     - identifier: CV
-#       name: CV
-#       url: /fixed/cv
-#       weight: 15
-#     - identifier: Notes
-#       name: Notes
-#       url: /notes/notes_links
-#       weight: 20
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+  goldmark:
+    renderer:
+      unsafe: true # Content内のリンク(HTML)を有効にするために必須
