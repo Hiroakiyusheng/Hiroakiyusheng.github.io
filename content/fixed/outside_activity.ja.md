@@ -13,7 +13,9 @@ ShowPostNavLinks: false
 
 
 ### 発表予定の学会・プレゼンテーション  
-- 未定  
+- **2026年7月16日-18日**  
+  **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
+  [AFS 2026 Annual Conference](https://www.afrimedfinance.com)（University of Catania, Catania, Sicily, Italy）にて報告予定
 
 ### 過去の学会発表  
 - **2025年11月1日–2日**  
@@ -42,4 +44,3 @@ ShowPostNavLinks: false
 ### 所属学会
 - [日本経済学会](https://www.jeaweb.org)
 - [JAFEE](http://www.jafee.gr.jp/01rally/rally-top.html)
-

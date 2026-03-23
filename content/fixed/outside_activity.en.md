@@ -13,7 +13,9 @@ ShowPostNavLinks: false
 
 
 ### Upcoming Conferences  
-- TBD  
+- **July 16-18, 2026**  
+  **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
+  Scheduled presentation at the [AFS 2026 Annual Conference](https://www.afrimedfinance.com) (University of Catania, Catania, Sicily, Italy)
 
 ### Past Conference Presentations  
 - **November 1–2, 2025**  
