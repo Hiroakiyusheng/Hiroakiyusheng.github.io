@@ -35,5 +35,8 @@ ShowPostNavLinks: false
 - <span class="award">🏆 [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span>（修士論文）
 - <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文）
 
+### 研究助成
+- [JST 次世代研究者挑戦的研究プログラム（SPRING）](https://www.jst.go.jp/jisedai/spring/index.html)
+
 ### スキル
 - **プログラミング言語**: Python, R, Julia, MATLAB, LaTeX

@@ -37,5 +37,8 @@ ShowPostNavLinks: false
 - <span class="award">🏆 [57th Naito Akira Memorial Paper Award, First Prize](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span> (Master's Thesis)
 - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper)
 
+### Grants
+- [JST SPRING: Support for Pioneering Research Initiated by the Next Generation](https://www.jst.go.jp/jisedai/spring/en/index.html)
+
 ### Skills
 - **Programming Languages**: Python, R, Julia, MATLAB, LaTeX
