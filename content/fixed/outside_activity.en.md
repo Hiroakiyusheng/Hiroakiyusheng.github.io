@@ -23,7 +23,7 @@ ShowPostNavLinks: false
   [NANZAN-Hitotsubashi Finance](https://sites.google.com/view/hnfws2025/?pli=1&authuser=1) (Hitotsubashi University, Kunitachi Campus)
 
 - **September 2, 2025**  
-  **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
+  [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   [JSIAM](https://jsiam.org/jsiam_archive/past_meetings/annual2025/) 2025 Annual Meeting (Tokyo University of Science, Kagurazaka Campus)
 
 - **August 7, 2025**  
@@ -35,7 +35,7 @@ ShowPostNavLinks: false
   [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting (Chukyo University, Nagoya Campus)
 
 - **February 15, 2025**  
-  **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
+  [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) 62nd 2024 Winter Conference, Short Communication (University of Tokyo, Hongo Campus)
 
 ---

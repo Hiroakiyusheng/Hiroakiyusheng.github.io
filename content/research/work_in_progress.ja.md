@@ -21,9 +21,9 @@ ShowPostNavLinks: false
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]
 
 #### Published
-- **"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**  
+- [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   畑宏明氏・安田和弘氏との共著, 2026 (責任著者)
-  - Forthcoming in ***Asia-Pacific Financial Markets***
+  - Published in ***Asia-Pacific Financial Markets***
   - JAFEE若手優秀論文賞（受賞予定）
 
 #### 学位論文
