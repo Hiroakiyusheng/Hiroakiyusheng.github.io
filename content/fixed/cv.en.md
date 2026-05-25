@@ -12,8 +12,8 @@ ShowPostNavLinks: false
 
 ### Education
 - current Ph.D in Commerce, Hitotsubashi University School of Bussiness Administration, Tokyo, Japan
-- March, 2025 M.A. in Commerce, Hitotsubashi University School of Business Administration, Tokyo, Japan
-- March, 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
+- March 2025 M.A. in Commerce, Hitotsubashi University School of Business Administration, Tokyo, Japan
+- March 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
 
 ### RA
 - April 2024 - current: Research Assistant for [ERATO KOJIMA Market Design Project, Social Implementation Group](https://www.jst.go.jp/erato/kojima/en/index.html) ([Member](https://www.jst.go.jp/erato/kojima/en/member/index.html))
