@@ -47,7 +47,7 @@ languages:
           Ph.D. student at Hitotsubashi University, Graduate School of Business Administration.
           
           My research interests include **Asset Pricing**, **Macro-Finance**, **Mathematical Finance**, and **Behavioral Finance**. I am currently working on projects related to Disaster Risk and Market Efficiency.
-        imageUrl: "profile_2025.JPG"
+        imageUrl: "profile_2026.jpg"
 
   ja:
     languageCode: "ja"
@@ -79,13 +79,13 @@ languages:
           一橋大学大学院経営管理研究科の博士後期課程2年です。
           
           **資産価格理論**、**マクロ金融**、**数理ファイナンス**、**行動ファイナンス**を専門とし、現在は災害リスク（Disaster Risk）や競馬市場の効率性について研究しています。
-        imageUrl: "profile_2025.JPG"
+        imageUrl: "profile_2026.jpg"
 
 params:
   description: "Personal page of Hiroaki Hanyu"
   keywords: [Finance, Macro-Finance, Mathematical Finance, Asset Pricing, Ph.D.]
   author: Hiroaki Hanyu
-  images: ["profile_2025.jpg"]
+  images: ["profile_2026.jpg"]
   
   defaultTheme: light # 信頼感を重視しライトモードをデフォルトに
   disableThemeToggle: false
