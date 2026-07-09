@@ -46,9 +46,7 @@ languages:
         Content: >
           Ph.D. student at Hitotsubashi University, Graduate School of Business Administration.
           
-          My research interests include **Asset Pricing**, **Macroeconomics**, and **Behavioral Finance**. I am currently working on projects related to Disaster Risk and Market Efficiency.
-          
-          [Research](/research/work_in_progress) / [CV](/fixed/cv) / [Notes](/notes/notes_links)
+          My research interests include **Asset Pricing**, **Macro-Finance**, **Mathematical Finance**, and **Behavioral Finance**. I am currently working on projects related to Disaster Risk and Market Efficiency.
         imageUrl: "profile_2025.JPG"
 
   ja:
@@ -78,16 +76,14 @@ languages:
       homeInfoParams:
         Title: "羽生 寛明"
         Content: >
-          一橋大学大学院 経営管理研究科 博士後期課程2年。
+          一橋大学大学院経営管理研究科の博士後期課程2年です。
           
-          **資産価格理論**、**マクロ経済学**、**行動ファイナンス**を専門とし、現在は災害リスク（Disaster Risk）や競馬市場の効率性について研究しています。
-          
-          [研究内容](/research/work_in_progress) / [経歴・CV](/fixed/cv) / [ノート](/notes/notes_links)
+          **資産価格理論**、**マクロ金融**、**数理ファイナンス**、**行動ファイナンス**を専門とし、現在は災害リスク（Disaster Risk）や競馬市場の効率性について研究しています。
         imageUrl: "profile_2025.JPG"
 
 params:
   description: "Personal page of Hiroaki Hanyu"
-  keywords: [Finance, Macroeconomics, Asset Pricing, Ph.D.]
+  keywords: [Finance, Macro-Finance, Mathematical Finance, Asset Pricing, Ph.D.]
   author: Hiroaki Hanyu
   images: ["profile_2025.jpg"]
   
@@ -95,8 +91,8 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
   ShowBreadCrumbs: false
 
   assets:
