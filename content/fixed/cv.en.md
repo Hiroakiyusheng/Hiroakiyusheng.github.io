@@ -34,6 +34,7 @@ ShowPostNavLinks: false
 - April 2023 - July 2023: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
 
 ### Awards
+- <span class="award">🏆 JAFEE Young Researcher Excellent Paper Award</span> (Co-authored Paper)
 - <span class="award">🏆 [57th Naito Akira Memorial Paper Award, First Prize](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span> (Master's Thesis)
 - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper)
 

@@ -32,6 +32,7 @@ ShowPostNavLinks: false
 - 2023年4月 - 2023年7月： 上級マクロ経済学（一橋大学大学院経済学研究科、400番台コア科目）
 
 ### 受賞歴
+- <span class="award">🏆 JAFEE若手優秀論文賞</span>（共著論文）
 - <span class="award">🏆 [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span>（修士論文）
 - <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文）
 

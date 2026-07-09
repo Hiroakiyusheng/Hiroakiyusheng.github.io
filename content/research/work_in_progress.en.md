@@ -23,7 +23,7 @@ ShowPostNavLinks: false
 - [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   with Hiroaki Hata and Kazuhiro Yasuda, 2026 (corresponding author)
   - Published in ***Asia-Pacific Financial Markets***
-  - JAFEE Young Researcher Excellent Paper Award (expected)
+  - <span class="award">🏆 JAFEE Young Researcher Excellent Paper Award</span>
 
 #### Thesis  
 - **"The Effects of Experience-Based Learning on Asset Price Dynamics: An Approach Using a Continuous-Time Overlapping Generations Model"**  

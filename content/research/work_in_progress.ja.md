@@ -24,7 +24,7 @@ ShowPostNavLinks: false
 - [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   畑宏明氏・安田和弘氏との共著, 2026 (責任著者)
   - Published in ***Asia-Pacific Financial Markets***
-  - JAFEE若手優秀論文賞（受賞予定）
+  - <span class="award">🏆 JAFEE若手優秀論文賞</span>
 
 #### 学位論文
 - **『経験依存的学習行動が資産価格変動へ与える影響〜連続時間世代重複モデルによるアプローチ〜』**  
