@@ -36,7 +36,7 @@ ShowPostNavLinks: false
 ### Awards
 - <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE Young Researcher Excellent Paper Award</a></span> (Co-authored Paper)
 - <span class="award">🏆 [57th Naito Akira Memorial Paper Award, First Prize](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span> (Master's Thesis)
-- <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper, <a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">External link</a>)
+- <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper, <a href="/papers/behavioral-economics-award-19.pdf">Award PDF</a>)
 
 ### Grants
 - [JST SPRING: Support for Pioneering Research Initiated by the Next Generation](https://www.jst.go.jp/jisedai/spring/en/index.html)

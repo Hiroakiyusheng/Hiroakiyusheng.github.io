@@ -34,7 +34,7 @@ ShowPostNavLinks: false
 ### 受賞歴
 - <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE若手優秀論文賞</a></span>（共著論文）
 - <span class="award">🏆 [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span>（修士論文）
-- <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文、<a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">外部リンク</a>）
+- <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文、<a href="/papers/behavioral-economics-award-19.pdf">受賞PDF</a>）
 
 ### 研究助成
 - [JST 次世代研究者挑戦的研究プログラム（SPRING）](https://www.jst.go.jp/jisedai/spring/index.html)

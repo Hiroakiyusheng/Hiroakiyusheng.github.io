@@ -17,7 +17,7 @@ ShowPostNavLinks: false
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
   [石井俊祐氏](https://sishii0418.github.io/)・[大谷克氏](https://sites.google.com/site/suguruotaniecon)・[寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)との共著, 2025 (最終更新: 2026年7月)   
   - ***The Economic Journal*** に再投稿済み  
-  - <span class="award">🏆 第19回行動経済学会奨励賞</span>（<a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">外部リンク</a>）
+  - <span class="award">🏆 第19回行動経済学会奨励賞</span>（<a href="/papers/behavioral-economics-award-19.pdf">受賞PDF</a>）
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]
 
 #### Published
