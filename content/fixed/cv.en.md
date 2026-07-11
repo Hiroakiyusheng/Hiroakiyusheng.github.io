@@ -11,9 +11,9 @@ ShowPostNavLinks: false
 ---
 
 ### Education
-- current Ph.D in Commerce, Hitotsubashi University School of Bussiness Administration, Tokyo, Japan
-- March 2025 M.A. in Commerce, Hitotsubashi University School of Business Administration, Tokyo, Japan
-- March 2023 B.A. in Commerce, Hitotsubashi University, Tokyo, Japan
+- Current Ph.D. student in Commerce, Hitotsubashi University Graduate School of Business Administration, Tokyo, Japan
+- March 2025 M.A. in Commerce, Hitotsubashi University Graduate School of Business Administration, Tokyo, Japan
+- March 2023 B.A. in Commerce, Hitotsubashi University Faculty of Commerce, Department of Commerce, Tokyo, Japan
 
 ### RA
 - April 2024 - current: Research Assistant for [ERATO KOJIMA Market Design Project, Social Implementation Group](https://www.jst.go.jp/erato/kojima/en/index.html) ([Member](https://www.jst.go.jp/erato/kojima/en/member/index.html))
@@ -34,9 +34,9 @@ ShowPostNavLinks: false
 - April 2023 - July 2023: Advanced Macroeconomics (Hitotsubashi University Graduate School of Economics, 400-level core course)
 
 ### Awards
-- <span class="award">🏆 JAFEE Young Researcher Excellent Paper Award</span> (Co-authored Paper)
+- <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE Young Researcher Excellent Paper Award</a></span> (Co-authored Paper)
 - <span class="award">🏆 [57th Naito Akira Memorial Paper Award, First Prize](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span> (Master's Thesis)
-- <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper)
+- <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper, <a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">External link</a>)
 
 ### Grants
 - [JST SPRING: Support for Pioneering Research Initiated by the Next Generation](https://www.jst.go.jp/jisedai/spring/en/index.html)

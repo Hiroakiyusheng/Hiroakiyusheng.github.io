@@ -13,8 +13,8 @@ ShowPostNavLinks: false
 
 ### 学歴
 - 現在　一橋大学大学院経営管理研究科　博士後期課程在籍
-- 2025年3月 一橋大学経営管理研究科　修士（商学）
-- 2023年3月 一橋大学経営管理研究科　学士（商学）
+- 2025年3月 一橋大学大学院経営管理研究科　修士（商学）
+- 2023年3月 一橋大学商学部商学科　学士（商学）
 
 ### RA
 - 2024年4月 - 現在: [ERATO小島マーケットデザインプロジェクト・社会実装グループ](https://www.jst.go.jp/erato/kojima/index.html)の研究助手（[Member](https://www.jst.go.jp/erato/kojima/member/index.html)）
@@ -32,9 +32,9 @@ ShowPostNavLinks: false
 - 2023年4月 - 2023年7月： 上級マクロ経済学（一橋大学大学院経済学研究科、400番台コア科目）
 
 ### 受賞歴
-- <span class="award">🏆 JAFEE若手優秀論文賞</span>（共著論文）
+- <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE若手優秀論文賞</a></span>（共著論文）
 - <span class="award">🏆 [第57回内藤章記念論文賞・第1等](https://www.cm.hit-u.ac.jp/hitmagazine/2025/04/576.html)</span>（修士論文）
-- <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文）
+- <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文、<a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">外部リンク</a>）
 
 ### 研究助成
 - [JST 次世代研究者挑戦的研究プログラム（SPRING）](https://www.jst.go.jp/jisedai/spring/index.html)

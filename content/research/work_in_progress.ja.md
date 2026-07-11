@@ -17,14 +17,14 @@ ShowPostNavLinks: false
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
   [石井俊祐氏](https://sishii0418.github.io/)・[大谷克氏](https://sites.google.com/site/suguruotaniecon)・[寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)との共著, 2025 (最終更新: 2026年7月)   
   - ***The Economic Journal*** に再投稿済み  
-  - <span class="award">🏆 第19回行動経済学会奨励賞</span>
+  - <span class="award">🏆 第19回行動経済学会奨励賞</span>（<a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">外部リンク</a>）
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]
 
 #### Published
 - [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   畑宏明氏・安田和弘氏との共著, 2026 (責任著者)
   - Published in ***Asia-Pacific Financial Markets***
-  - <span class="award">🏆 JAFEE若手優秀論文賞</span>
+  - <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE若手優秀論文賞</a></span>
 
 #### 学位論文
 - **『経験依存的学習行動が資産価格変動へ与える影響〜連続時間世代重複モデルによるアプローチ〜』**  

@@ -16,14 +16,14 @@ ShowPostNavLinks: false
 - [**"Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"**](/papers/hanyu2025final.pdf)  
   with [Shunsuke Ishii](https://sishii0418.github.io/), [Suguru Otani](https://sites.google.com/site/suguruotaniecon), [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home), 2025 (Last updated: Jul. 2026)   
   - Resubmitted to ***The Economic Journal***  
-  - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span>
+  - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (<a href="https://www.abef.jp/wp-content/uploads/syourei_award_19th.pdf">External link</a>)
   - [[UTMD WP 093](https://mdc.e.u-tokyo.ac.jp/working-paper/UTMD-093)] [[arXiv](https://arxiv.org/abs/2509.14645)]   
 
 #### Published
 - [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
   with Hiroaki Hata and Kazuhiro Yasuda, 2026 (corresponding author)
   - Published in ***Asia-Pacific Financial Markets***
-  - <span class="award">🏆 JAFEE Young Researcher Excellent Paper Award</span>
+  - <span class="award">🏆 <a href="http://www.jafee.gr.jp/17prize/jafee-prize.html#young">JAFEE Young Researcher Excellent Paper Award</a></span>
 
 #### Thesis  
 - **"The Effects of Experience-Based Learning on Asset Price Dynamics: An Approach Using a Continuous-Time Overlapping Generations Model"**  
