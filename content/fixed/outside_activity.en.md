@@ -12,12 +12,11 @@ ShowPostNavLinks: false
 
 
 
-### Upcoming Conferences  
-- **July 16-18, 2026**  
+### Past Conference Presentations
+- **July 16–18, 2026**
   **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
-  Scheduled presentation at the [AFS 2026 Annual Conference](https://www.afrimedfinance.com) (University of Catania, Catania, Sicily, Italy)
+  Presented at the [AFS 2026 Annual Conference](https://www.afrimedfinance.com) (University of Catania, Catania, Sicily, Italy)
 
-### Past Conference Presentations  
 - **November 1–2, 2025**  
   **"Investment Behavior and Household Consumption Across Generations: An Analysis from Experience-Based Learning Models"**  
   [NANZAN-Hitotsubashi Finance](https://sites.google.com/view/hnfws2025/?pli=1&authuser=1) (Hitotsubashi University, Kunitachi Campus)

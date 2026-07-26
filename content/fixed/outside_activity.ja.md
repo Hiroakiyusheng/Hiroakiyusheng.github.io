@@ -12,12 +12,11 @@ ShowPostNavLinks: false
 
 
 
-### 発表予定の学会・プレゼンテーション  
-- **2026年7月16日-18日**  
+### 過去の学会発表
+- **2026年7月16日–18日**
   **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
-  [AFS 2026 Annual Conference](https://www.afrimedfinance.com)（University of Catania, Catania, Sicily, Italy）にて報告予定
+  [AFS 2026 Annual Conference](https://www.afrimedfinance.com)（University of Catania, Catania, Sicily, Italy）にて報告
 
-### 過去の学会発表  
 - **2025年11月1日–2日**  
   **「投資行動と家計消費の世代差：経験依存的学習モデルからの分析」**  
   [NANZAN-Hitotsubashiファイナンス](https://sites.google.com/view/hnfws2025/?pli=1&authuser=1)（一橋大学国立キャンパス）
