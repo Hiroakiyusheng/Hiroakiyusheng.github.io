@@ -48,3 +48,4 @@ ShowPostNavLinks: false
 ### 所属学会
 - [日本経済学会](https://www.jeaweb.org)
 - [JAFEE](http://www.jafee.gr.jp/01rally/rally-top.html)
+- [日本ファイナンス学会](https://nfa-net.jp/)

@@ -48,3 +48,4 @@ ShowPostNavLinks: false
 ### Memberships
 - [Japan Economic Association](https://www.jeaweb.org)
 - [JAFEE](http://www.jafee.gr.jp/01rally/rally-top.html)
+- [Nippon Finance Association](https://nfa-net.jp/)
