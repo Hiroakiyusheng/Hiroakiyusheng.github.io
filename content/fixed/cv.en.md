@@ -23,6 +23,7 @@ ShowPostNavLinks: false
 ### TA
 - September 2026 - December 2026: Corporate Finance (MBA) (Hitotsubashi University Graduate School of Business Administration, Business Administration Program selective course)
 - June 2026 - July 2026: Corporate Finance (Hitotsubashi University Faculty of Commerce, 200-level selective course)
+- September 2026 - December 2026: Financial Economics A1 (Hitotsubashi University Faculty of Economics, 300-level selective course)
 - September 2025 - December 2025: Financial Economics A1 (Hitotsubashi University Faculty of Economics, 300-level selective course)
 - September 2025 - December 2025: Introduction to Finance (Hitotsubashi University Faculty of Commerce, 100-level required course)
 
