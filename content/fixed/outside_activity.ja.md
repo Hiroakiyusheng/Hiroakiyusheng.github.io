@@ -12,6 +12,8 @@ ShowPostNavLinks: false
 
 
 
+### 発表予定の学会・プレゼンテーション
+
 ### 過去の学会発表
 - **2026年7月16日–18日**
   **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
