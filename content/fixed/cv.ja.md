@@ -17,6 +17,7 @@ ShowPostNavLinks: false
 - 2023年3月 一橋大学商学部商学科　学士（商学）
 
 ### RA
+- 2025年9月 - 現在: [祝迫得夫氏](https://www1.ier.hit-u.ac.jp/Japanese/faculty/iwaisako.html)（一橋大学経済研究所）の研究助手
 - 2024年4月 - 現在: [ERATO小島マーケットデザインプロジェクト・社会実装グループ](https://www.jst.go.jp/erato/kojima/index.html)の研究助手（[Member](https://www.jst.go.jp/erato/kojima/member/index.html)）
 - 2022年9月 - 2024年3月: [寺本和弘氏](https://sites.google.com/view/kazuhiroteramoto/home)（一橋大学経済学研究科）の研究助手
 - 2021年1月 - 2023年3月: [有本寛氏](https://sites.google.com/site/yutakaarimoto/japanese)（一橋大学経済研究所）の研究助手

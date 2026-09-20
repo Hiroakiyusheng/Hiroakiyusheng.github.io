@@ -16,6 +16,7 @@ ShowPostNavLinks: false
 - March 2023 B.A. in Commerce, Hitotsubashi University Faculty of Commerce, Department of Commerce, Tokyo, Japan
 
 ### RA
+- September 2025 - current: Research Assistant for [Tokuo Iwaisako](https://www1.ier.hit-u.ac.jp/Japanese/faculty/iwaisako.html) at Hitotsubashi University, Institute of Economic Research
 - April 2024 - current: Research Assistant for [ERATO KOJIMA Market Design Project, Social Implementation Group](https://www.jst.go.jp/erato/kojima/en/index.html) ([Member](https://www.jst.go.jp/erato/kojima/en/member/index.html))
 - September 2022 - March 2024: Research Assistant for [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home) at the Hitotsubashi University, Department of Economics
 - January 2021 - March 2023: Research Assistant for [Yutaka Arimoto](https://sites.google.com/site/yutakaarimoto/home) at the Hitotsubashi University, Institute of Economic Research
