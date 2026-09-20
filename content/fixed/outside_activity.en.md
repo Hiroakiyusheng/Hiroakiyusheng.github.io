@@ -13,6 +13,9 @@ ShowPostNavLinks: false
 
 
 ### Upcoming Conferences
+- **November 7–8, 2026**<br>
+  **"TBA"**<br>
+  NANZAN-Hitotsubashi Finance (Nanzan University)
 
 ### Past Conference Presentations
 - **July 16–18, 2026**
