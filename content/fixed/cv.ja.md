@@ -39,6 +39,7 @@ ShowPostNavLinks: false
 - <span class="award">🏆 第19回行動経済学会奨励賞</span>（共著論文、<a href="/papers/behavioral-economics-award-19.pdf">受賞PDF</a>）
 
 ### 研究助成
+- 2027年4月から：[日本学術振興会特別研究員（DC2）](https://www.jsps.go.jp/j-pd/)
 - [JST 次世代研究者挑戦的研究プログラム（SPRING）](https://www.jst.go.jp/jisedai/spring/index.html)
 
 ### スキル

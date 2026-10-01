@@ -41,6 +41,7 @@ ShowPostNavLinks: false
 - <span class="award">🏆 19th Behavioral Economics Society Encouragement Award</span> (Co-authored Paper, <a href="/papers/behavioral-economics-award-19.pdf">Award PDF</a>)
 
 ### Grants
+- Starting April 2027: [JSPS Research Fellow (DC2)](https://www.jsps.go.jp/english/e-pd/)
 - [JST SPRING: Support for Pioneering Research Initiated by the Next Generation](https://www.jst.go.jp/jisedai/spring/en/index.html)
 
 ### Skills
