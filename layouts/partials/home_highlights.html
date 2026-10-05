@@ -1,0 +1,38 @@
+{{ $research := site.GetPage "/research/work_in_progress" }}
+{{ $cv := site.GetPage "/fixed/cv" }}
+{{ $activity := site.GetPage "/fixed/outside_activity" }}
+{{ $ja := eq site.Language.Lang "ja" }}
+<div class="home-highlights">
+  <section class="home-highlight featured-research" aria-labelledby="featured-research">
+    <h2 id="featured-research">{{ if $ja }}最近の研究{{ else }}Recent Research{{ end }}</h2>
+    <div>
+      <p class="research-meta">Working Paper <span aria-hidden="true">/</span> {{ if $ja }}市場の情報集約{{ else }}Information aggregation{{ end }}</p>
+      <h3 class="research-title"><a href="{{ "papers/hanyu2025final.pdf" | relURL }}">Are Final Market Prices Sufficient for Information Aggregation?</a></h3>
+      <p class="research-subtitle">Evidence from Last-Minute Dynamics in Parimutuel Betting</p>
+      <p class="research-recognition"><a href="{{ "papers/behavioral-economics-award-19.pdf" | relURL }}">{{ if $ja }}第19回行動経済学会奨励賞{{ else }}19th Behavioral Economics Society Encouragement Award{{ end }}</a>{{ if $ja }}（共著論文）{{ else }} (co-authored paper){{ end }}</p>
+      <nav class="highlight-links" aria-label="{{ if $ja }}論文リンク{{ else }}Paper links{{ end }}">
+        <a href="{{ "papers/hanyu2025final.pdf" | relURL }}">{{ if $ja }}論文PDF{{ else }}Paper PDF{{ end }}</a>
+        <a href="https://arxiv.org/abs/2509.14645">arXiv</a>
+        <a href="{{ $research.RelPermalink }}">{{ if $ja }}研究一覧 →{{ else }}All research →{{ end }}</a>
+      </nav>
+    </div>
+  </section>
+  <section class="home-highlight" aria-labelledby="publication-awards">
+    <h2 id="publication-awards">{{ if $ja }}掲載・受賞{{ else }}Publication &amp; Awards{{ end }}</h2>
+    <div>
+      <p class="highlight-lead"><em>Asia-Pacific Financial Markets</em>{{ if $ja }} 掲載{{ else }} publication{{ end }}</p>
+      <ul class="highlight-facts">
+        <li>{{ if $ja }}JAFEE若手優秀論文賞（共著論文）{{ else }}JAFEE Young Researcher Excellent Paper Award (co-authored paper){{ end }}</li>
+        <li>{{ if $ja }}第19回行動経済学会奨励賞（共著論文）{{ else }}19th Behavioral Economics Society Encouragement Award (co-authored paper){{ end }}</li>
+      </ul>
+      <a class="highlight-more" href="{{ $cv.RelPermalink }}">{{ if $ja }}経歴・受賞歴 →{{ else }}CV &amp; awards →{{ end }}</a>
+    </div>
+  </section>
+  <section class="home-highlight" aria-labelledby="news">
+    <h2 id="news">{{ if $ja }}近況{{ else }}News{{ end }}</h2>
+    <div class="highlight-news">
+      <p><span class="news-date">{{ if $ja }}2027年4月{{ else }}April 2027{{ end }}</span><a href="{{ $cv.RelPermalink }}">{{ if $ja }}日本学術振興会特別研究員（DC2）採用予定{{ else }}Selected for a JSPS Research Fellowship (DC2), starting April 2027{{ end }}</a></p>
+      <p><span class="news-date">{{ if $ja }}2026年11月7–8日{{ else }}November 7–8, 2026{{ end }}</span><a href="{{ $activity.RelPermalink }}">{{ if $ja }}NANZAN-Hitotsubashiファイナンスにて発表予定（南山大学・タイトルTBA）{{ else }}Upcoming presentation at NANZAN-Hitotsubashi Finance (Nanzan University; title TBA){{ end }}</a></p>
+    </div>
+  </section>
+</div>

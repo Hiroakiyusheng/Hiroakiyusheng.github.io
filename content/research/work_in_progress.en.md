@@ -37,5 +37,5 @@ ShowPostNavLinks: false
 - [Sources of heterogeneity in individual perceptions and the impact of policies for individual investors on their asset accumulation and portfolio allocation](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K25532/)
 - Estimation Methods of Expected Inflation Rates with TIPS
 - Experience Based Learning Models with an OLG Framework
-- Diagnostic Expectations and Macroeconomic Consequences via Financial Markets
-- Pricing Problem with Cryptocurrencies
+- Estimating Corporate Trauma
+- Estimating Investor Beliefs about Disaster Risk
