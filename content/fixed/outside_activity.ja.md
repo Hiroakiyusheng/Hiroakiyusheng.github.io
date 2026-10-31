@@ -20,7 +20,7 @@ ShowPostNavLinks: false
 ### 過去の学会発表
 - **2026年7月16日–18日**
   **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
-  [AFS 2026 Annual Conference](https://www.afrimedfinance.com)（University of Catania, Catania, Sicily, Italy）にて報告
+  [AFS 2026 Annual Conference](https://www.afrimedfinance.com)（University of Catania, Catania, Sicily, Italy）にて報告（査読付き）
 
 - **2025年11月1日–2日**  
   **「投資行動と家計消費の世代差：経験依存的学習モデルからの分析」**  
@@ -28,7 +28,7 @@ ShowPostNavLinks: false
 
 - **2025年9月2日**  
   [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
-  [日本応用数理学会](https://jsiam.org/jsiam_archive/past_meetings/annual2025/) 2025年度大会（東京理科大学神楽坂キャンパス）
+  [日本応用数理学会](https://jsiam.org/jsiam_archive/past_meetings/annual2025/) 2025年度大会（東京理科大学神楽坂キャンパス）（査読付き）
 
 - **2025年8月7日**  
   **"Beyond the Final Odds: Last-Minute Market Movements and Return Predictability in Parimutuel Betting."**  
@@ -36,11 +36,11 @@ ShowPostNavLinks: false
 
 - **2025年5月24日–25日**  
   **「経験依存的な学習行動が資産価格変動に与える影響〜連続時間世代重複モデルによるアプローチ」**  
-  [日本経済学会](https://www.jeaweb.org) 2025年度春季大会（中京大学名古屋キャンパス）
+  [日本経済学会](https://www.jeaweb.org) 2025年度春季大会（中京大学名古屋キャンパス）（査読付き）
 
 - **2025年2月15日**  
   [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
-  [JAFEE大会](http://www.jafee.gr.jp/01rally/rally-top.html) 第62回2024年度冬季大会・ショートコミュニケーション（東京大学本郷キャンパス）
+  [JAFEE大会](http://www.jafee.gr.jp/01rally/rally-top.html) 第62回2024年度冬季大会・ショートコミュニケーション（東京大学本郷キャンパス）（査読付き）
 
 ---
 
