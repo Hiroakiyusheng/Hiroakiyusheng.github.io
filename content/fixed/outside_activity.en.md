@@ -20,7 +20,7 @@ ShowPostNavLinks: false
 ### Past Conference Presentations
 - **July 16–18, 2026**
   **"Experience-Based Learning and Financial Market Instability after Economic Stagnation"**  
-  Presented at the [AFS 2026 Annual Conference](https://www.afrimedfinance.com) (University of Catania, Catania, Sicily, Italy) (peer-reviewed)
+  Presented at the [AFS 2026 Annual Conference](https://www.afrimedfinance.com) (University of Catania, Catania, Sicily, Italy) (reviewed for acceptance)
 
 - **November 1–2, 2025**  
   **"Investment Behavior and Household Consumption Across Generations: An Analysis from Experience-Based Learning Models"**  
@@ -28,7 +28,7 @@ ShowPostNavLinks: false
 
 - **September 2, 2025**  
   [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
-  [JSIAM](https://jsiam.org/jsiam_archive/past_meetings/annual2025/) 2025 Annual Meeting (Tokyo University of Science, Kagurazaka Campus) (peer-reviewed)
+  [JSIAM](https://jsiam.org/jsiam_archive/past_meetings/annual2025/) 2025 Annual Meeting (Tokyo University of Science, Kagurazaka Campus)
 
 - **August 7, 2025**  
   **"Beyond the Final Odds: Last-Minute Market Movements and Return Predictability in Parimutuel Betting."**  
@@ -36,11 +36,11 @@ ShowPostNavLinks: false
 
 - **May 24–25, 2025**  
   **"Experience-Based Learning and Asset Price Fluctuations: An OLG Approach"**  
-  [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting (Chukyo University, Nagoya Campus) (peer-reviewed)
+  [Japan Economic Association](https://www.jeaweb.org) 2025 Spring Meeting (Chukyo University, Nagoya Campus) (reviewed for acceptance)
 
 - **February 15, 2025**  
   [**"Optimal investment and reinsurance strategy for mean-variance insurers in a dependent risk model using a linear Gaussian stochastic factor model."**](https://link.springer.com/article/10.1007/s10690-026-09596-0)  
-  [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) 62nd 2024 Winter Conference, Short Communication (University of Tokyo, Hongo Campus) (peer-reviewed)
+  [JAFEE Conference](http://www.jafee.gr.jp/01rally/rally-top.html) 62nd 2024 Winter Conference, Short Communication (University of Tokyo, Hongo Campus) (reviewed for acceptance)
 
 ---
 
