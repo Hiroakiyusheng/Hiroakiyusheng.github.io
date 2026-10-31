@@ -1,6 +1,5 @@
 {{ $research := site.GetPage "/research/work_in_progress" }}
 {{ $cv := site.GetPage "/fixed/cv" }}
-{{ $activity := site.GetPage "/fixed/outside_activity" }}
 {{ $ja := eq site.Language.Lang "ja" }}
 <div class="home-highlights">
   <section class="home-highlight featured-research" aria-labelledby="featured-research">
@@ -32,7 +31,7 @@
     <h2 id="news">{{ if $ja }}近況{{ else }}News{{ end }}</h2>
     <div class="highlight-news">
       <p><span class="news-date">{{ if $ja }}2027年4月{{ else }}April 2027{{ end }}</span><a href="{{ $cv.RelPermalink }}">{{ if $ja }}日本学術振興会特別研究員（DC2）採用予定{{ else }}Selected for a JSPS Research Fellowship (DC2), starting April 2027{{ end }}</a></p>
-      <p><span class="news-date">{{ if $ja }}2026年11月7–8日{{ else }}November 7–8, 2026{{ end }}</span><a href="{{ $activity.RelPermalink }}">{{ if $ja }}NANZAN-Hitotsubashiファイナンスにて発表予定（南山大学・タイトルTBA）{{ else }}Upcoming presentation at NANZAN-Hitotsubashi Finance (Nanzan University; title TBA){{ end }}</a></p>
+      <p><span class="news-date">{{ if $ja }}2026年11月7–8日{{ else }}November 7–8, 2026{{ end }}</span><a href="https://rci.nanzan-u.ac.jp/m-center/workshop/item/abc35bb7dfa50a5622be022cff0816258f36222e.pdf">{{ if $ja }}NANZAN-Hitotsubashiファイナンスにて「Learning about Disaster Recovery and Asset Prices」を発表予定（南山大学）{{ else }}Upcoming presentation: “Learning about Disaster Recovery and Asset Prices” at NANZAN-Hitotsubashi Finance (Nanzan University){{ end }}</a></p>
     </div>
   </section>
 </div>

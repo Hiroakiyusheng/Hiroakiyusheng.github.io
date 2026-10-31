@@ -14,8 +14,8 @@ ShowPostNavLinks: false
 
 ### Upcoming Conferences
 - **November 7–8, 2026**<br>
-  **"TBA"**<br>
-  NANZAN-Hitotsubashi Finance (Nanzan University)
+  **"Learning about Disaster Recovery and Asset Prices"**<br>
+  [NANZAN-Hitotsubashi Finance](https://rci.nanzan-u.ac.jp/m-center/workshop/item/abc35bb7dfa50a5622be022cff0816258f36222e.pdf) (Nanzan University)
 
 ### Past Conference Presentations
 - **July 16–18, 2026**

@@ -14,8 +14,8 @@ ShowPostNavLinks: false
 
 ### 発表予定の学会・プレゼンテーション
 - **2026年11月7日–8日**<br>
-  **「TBA」**<br>
-  NANZAN-Hitotsubashiファイナンス（南山大学）
+  **「Learning about Disaster Recovery and Asset Prices」**<br>
+  [NANZAN-Hitotsubashiファイナンス](https://rci.nanzan-u.ac.jp/m-center/workshop/item/abc35bb7dfa50a5622be022cff0816258f36222e.pdf)（南山大学）
 
 ### 過去の学会発表
 - **2026年7月16日–18日**
